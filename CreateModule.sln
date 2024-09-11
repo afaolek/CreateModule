@@ -12,5 +12,6 @@ Global
 		{2F344C5D-3A65-4CD5-9E1C-EB1D01DB0BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F344C5D-3A65-4CD5-9E1C-EB1D01DB0BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F344C5D-3A65-4CD5-9E1C-EB1D01DB0BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F344C5D-3A65-4CD5-9E1C-EB1D01DB0BCC}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
