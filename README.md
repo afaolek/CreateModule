@@ -22,15 +22,11 @@
   * `--noTests` if you don't want to generate the Tests projects
   * `--mdc` if you want to merge the `Domain` and `Application` projects into one project. The project will be called `ApplicationCore`.
 
-## Features
-
-* 
-
 ## Contributing
 
-+ Fork the repository and create a new branch
-+ Make changes and commit them with a descriptive commit message
-+ Create a pull request to merge your changes
+* Fork the repository and create a new branch
+* Make changes and commit them with a descriptive commit message
+* Create a pull request to merge your changes
 
 ## License
 
